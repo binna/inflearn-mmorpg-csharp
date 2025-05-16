@@ -21,7 +21,7 @@ C#과 Unity를 활용해 실제 MMORPG 게임을 구현한 프로젝트입니다
 | 언어 | C# |
 | 게임 엔진 | Unity |
 | 서버 | .NET Core |
-| DB | MS SQL, Entity Framework Core |
+| DB | MySQL, Entity Framework Core |
 | IDE | Rider 2024.3.7, Unity Editor 6000.0.46f1 |
 
 <br><br>
